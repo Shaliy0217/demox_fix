@@ -17,6 +17,7 @@ h2 { /*連結文字*/
      bottom: 0;
      left: 0;
      right: 0;
+     font-size: 1rem;
      margin-top: 200px;
      text-align: center;
      height: 40px;
