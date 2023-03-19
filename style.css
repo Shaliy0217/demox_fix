@@ -5,13 +5,13 @@
 .ml3,.ml4 {
     font-weight: 900;
 }
-h1,h4{
+h1 {
     color:#003377;
     text-align: center;
     font-family: "Microsoft JhengHei", sans-serif; /*字體為微軟正黑*/
     font-weight: 550; /*字體粗細*/
 }
-h5 { /*連結文字*/
+h2 { /*連結文字*/
      color:#ffffff;
      position: absolute;
      bottom: 0;
